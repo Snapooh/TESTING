@@ -1,0 +1,10 @@
+Inventort -Mouse over text where is not displayed.
+1) Vacancy list - City ddb
+
+
+
+
+No need of loading popup - Inventory
+1)Vacancy list -  When click in on city.
+2) OSHM - No need of loading 
+Bug 1584 closed
