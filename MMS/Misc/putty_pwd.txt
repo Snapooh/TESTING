@@ -6,3 +6,5 @@ tail -s 15 -F sna.log
  /etc/init.d/tomcat7  start
 2fe0bbc6-daca-4da2-a436-9747c8489ac3
 shutdown -h now
+
+GITHUB:- Snapoohd@gmail.com	|snapooh12345
