@@ -1,4 +1,8 @@
-DFxdegbceFaw
+
+root
+password = DFxdegbceFaw (right click and enter)
+
+ /etc/init.d/tomcat7  start
 
 Cmd
 tail -s 15 -F sna.log
