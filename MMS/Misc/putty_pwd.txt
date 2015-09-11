@@ -12,3 +12,5 @@ tail -s 15 -F sna.log
 shutdown -h now
 
 GITHUB:- Snapoohd@gmail.com	|snapooh12345
+
+CMS_Cinema Live:http://192.168.1.10:8080/controlpanel/admin/media/cinema/home
